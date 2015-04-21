@@ -54,4 +54,4 @@
 服务器端贝叶斯决策：
 <img src="https://github.com/greeca0204/emailFilter/tree/master/4.png" alt="emailFilter" />
 
-
+<img src="https://github.com/4148/greenhat/blob/master/example.png" alt="example image"/>
