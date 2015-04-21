@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-#author:         gavin
-#created:        2012-11-8
-#modify          2012-11-30
 
 import re
 import os
