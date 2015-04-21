@@ -43,14 +43,14 @@
 
 实验过程：
 协议开启：
-<img src="https://github.com/greeca0204/emailFilter/tree/master/result/1.jpg" alt="emailFilter"/>
+<img src="https://github.com/greeca0204/emailFilter/blob/master/1.jpg" alt="emailFilter"/>
 
 邮件截获：
-<img src="https://github.com/greeca0204/emailFilter/tree/master/result/2.jpg" alt="emailFilter"/>
+<img src="https://github.com/greeca0204/emailFilter/blob/master/2.jpg" alt="emailFilter"/>
 
 客户端发送报文：
-<img src="https://github.com/greeca0204/emailFilter/tree/master/result/3.jpg" alt="emailFilter"/>
+<img src="https://github.com/greeca0204/emailFilter/blob/master/3.jpg" alt="emailFilter"/>
 
 服务器端贝叶斯决策：
-<img src="https://github.com/greeca0204/emailFilter/tree/master/result/4.jpg" alt="emailFilter"/>
+<img src="https://github.com/greeca0204/emailFilter/blob/master/4.jpg" alt="emailFilter"/>
 
