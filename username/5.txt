@@ -1,0 +1,24 @@
+
+尊敬的家辉，您好！
+
+您最近更改了安全设置，因此您的Google帐户[greeca0204@gmail.com]不再受最新安全 
+标准的保护。
+
+如果此项更改不是您本人所为：
+请通过https://security.google.com/settings/security/activity查看“帐户活动”页 
+面，以确定是否存在任何可疑活动。做出此项更改的人员知道您的密码，我们建议您立 
+即更改密码。
+
+如果此项更改是您本人所为：
+请注意：攻击者现在可以更轻松地侵入您的帐户。您可以重新提高帐户的安全性，具体 
+方法是：通过https://www.google.com/settings/security/lesssecureapps撤消此项 
+更改，然后改用Google开发的应用（如Gmail）访问您的帐户。
+
+此致 Google 帐户小组敬上 此电子邮件地址无法接收回复。有关详情，请访问  
+Google 帐户帮助中心 (https://support.google.com/accounts/answer/6010255)。
+
+  我们向您发送这封重要的电子邮件通知，目的是让您了解您的 Google 产品或帐户发 
+生的重大变化。
+  (c) 2015 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043,  
+USA
+

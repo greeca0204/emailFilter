@@ -1,0 +1,29 @@
+
+尊敬的家辉，您好！
+
+我们最近阻止了一次试图登录您Google帐户[greeca0204@gmail.com]的行为。
+
+登录企图详情：
+日期和时间：4月18日星期六 GMT上午2:50
+位置：未知
+
+如果这不是您本人所为：
+请通过https://security.google.com/settings/security/activity查看“帐户活动”页 
+面，以确定是否存在任何可疑活动。尝试登录您帐户的人员知道您的密码，我们建议您 
+立即更改密码。
+
+如果这是您本人所为：
+您可以改用Google开发的应用（如Gmail）访问您的帐户（推荐），也可以通过 
+https://www.google.com/settings/security/lesssecureapps更改您的设置，以便使 
+您的帐户不再受最新安全标准的保护。
+
+要了解详情，请参见https://support.google.com/accounts/answer/6010255。
+
+此致 Google 帐户小组敬上 此电子邮件地址无法接收回复。有关详情，请访问  
+Google 帐户帮助中心 (https://support.google.com/accounts/answer/6010255)。
+
+  我们向您发送这封重要的电子邮件通知，目的是让您了解您的 Google 产品或帐户发 
+生的重大变化。
+  (c) 2015 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043,  
+USA
+
