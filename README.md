@@ -41,5 +41,17 @@
 		
 **注意使用Python 2.7版本**		
 
+实验过程：
+协议开启：
+<img src="https://github.com/greeca0204/emailFilter/blob/master/邮件客户端截取.png" />
+
+邮件截获：
+<img src="https://github.com/greeca0204/emailFilter/blob/master/邮件截获.png" />
+
+客户端发送报文：
+<img src="https://github.com/greeca0204/emailFilter/blob/master/客户端发送报文.png" />
+
+服务器端贝叶斯决策：
+<img src="https://github.com/greeca0204/emailFilter/blob/master/服务器端贝叶斯决策.png" />
 
 
